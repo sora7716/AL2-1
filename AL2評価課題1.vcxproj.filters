@@ -41,6 +41,18 @@
     <ClCompile Include="myStruct.cpp">
       <Filter>KamataEngine</Filter>
     </ClCompile>
+    <ClCompile Include="mapTip.cpp">
+      <Filter>KamataEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="fullScreen.cpp">
+      <Filter>KamataEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="hit.cpp">
+      <Filter>KamataEngine</Filter>
+    </ClCompile>
+    <ClCompile Include="gravity.cpp">
+      <Filter>KamataEngine</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\KamataEngine\DirectXGame\audio\Audio.h">
@@ -115,5 +127,9 @@
       <Filter>KamataEngine\Include</Filter>
     </ClInclude>
     <ClInclude Include="myStruct.h" />
+    <ClInclude Include="mapTip.h" />
+    <ClInclude Include="fullScreen.h" />
+    <ClInclude Include="hit.h" />
+    <ClInclude Include="gravity.h" />
   </ItemGroup>
 </Project>
